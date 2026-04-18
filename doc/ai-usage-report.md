@@ -4,41 +4,58 @@
 
 ### ChatGPT
 Used for:
-- Improving UI design and layout structure
-- Debugging JavaScript issues (navigation, filtering, and form validation)
-- Enhancing dark/light mode behavior and styling
-- Implementing project filtering and user interaction features
+- Debugging JavaScript logic (filtering, sorting, and validation)
+- Implementing GitHub API integration and handling API responses/errors
+- Improving UI design, layout structure, and responsiveness
+- Enhancing state management (localStorage for theme and visitor name)
+- Optimizing code structure and performance
 
+### Claude
+Used for:
+- Organizing and structuring CSS into clear sections
+- Improving readability and maintainability of styles
+- Refining layout consistency and reducing redundancy in CSS
 
 ---
 
 ## 2. Benefits of Using AI
 
-- Faster development and debugging process
-- Helped understand DOM manipulation and event handling
-- Improved overall UI/UX design quality
-- Assisted in implementing interactive features correctly
+- Accelerated development and debugging process
+- Helped implement more advanced features (API integration, filtering, sorting)
+- Improved understanding of DOM manipulation and event-driven programming
+- Enhanced UI/UX design and layout consistency
+- Provided guidance for writing cleaner and more efficient code
+- Helped structure CSS in a cleaner and more maintainable way
 
 ---
 
 ## 3. Challenges Faced
 
-- Some JavaScript logic required adjustments to fit my layout
-- Light mode colors needed refinement for better visibility
-- Navigation behavior required fixing 
-- Ensuring all features worked together without conflicts
+- Some AI-generated solutions required modification to fit my project structure
+- API integration required adjustments for proper error handling and display
+- Ensuring filtering and sorting worked together correctly
+- Balancing design improvements with assignment requirements
+- Avoiding code duplication while maintaining clean structure
+
 ---
 
 ## 4. Learning Outcomes
 
-- Learned how to use localStorage to store user preferences
-- Understood how to implement dynamic filtering using JavaScript
-- Improved skills in form validation and user feedback handling
-- Gained experience improving user experience through design and interaction
+- Learned how to integrate and use external APIs (GitHub API)
+- Improved understanding of complex logic (filtering, sorting, validation)
+- Gained experience with state management using localStorage
+- Strengthened debugging and problem-solving skills
+- Improved ability to design user-friendly and interactive interfaces
+- Learned how to better organize CSS into logical sections for scalability and readability
 
 ---
 
 ## 5. Responsible Use
 
-All AI-generated suggestions were reviewed, tested, and modified.
-I ensured full understanding of the implemented features and adapted the code to match my project requirements.
+All AI-generated suggestions were carefully reviewed, tested, and modified.
+
+- I adapted the code to fit my project structure and requirements
+- I ensured full understanding of all implemented features
+- I refined and improved AI suggestions instead of using them directly
+
+This ensured originality, correctness, and compliance with academic integrity requirements.

@@ -100,15 +100,15 @@ The goal is to demonstrate advanced JavaScript concepts, state management, and r
 ---
 ## AI Usage Summary
 
-AI tools were used for:
+AI tools were used to support development, debugging, and improving the overall quality of the portfolio.
 
-- Debugging JavaScript logic (filtering, API, validation)
-- Improving UI/UX layout and styling
-- Suggesting better code structure and performance improvements
-- Fixing layout and responsiveness issues
+Main uses included:
 
-Full documentation is available in:
-`docs/ai-usage-report.md`
+- Debugging JavaScript logic (filtering, sorting, API integration, and form validation)
+- Assisting with GitHub API integration and error handling
+- Improving UI/UX design, layout, and responsiveness
+- Enhancing state management features (theme toggle and visitor name using localStorage)
+- Suggesting performance improvements and cleaner code structure
 
 ---
 ## Performance & Testing
