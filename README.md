@@ -18,6 +18,13 @@ The goal is to demonstrate advanced JavaScript concepts, state management, and r
 - Section reveal animations
 - Modern UI design with gradient styling
 
+### UI/UX Improvements
+
+- Redesigned the layout for better visual hierarchy and readability
+- Improved typography, spacing, and section structure
+- Enhanced the hero section for a cleaner and more focused first impression
+- Reworked the “About Me” section with a structured layout and added a skills list
+
 ---
 
 ### Advanced Functionality (HW3 Requirements)
@@ -28,14 +35,11 @@ The goal is to demonstrate advanced JavaScript concepts, state management, and r
 - Handles API errors with user-friendly message
 
 #### 2. Complex Logic
-- Project filtering by category (Web, Database, Desktop)
-- Sorting projects by:
-  - Name (A–Z / Z–A)
-  - Date (Newest / Oldest)
-- Contact form validation:
-  - Required fields
-  - Email format validation
-  - Minimum message length
+- Multi-step project filtering and sorting system
+- Dynamic DOM updates based on user-selected filters
+- Conditional rendering (empty state when no projects match)
+- Form validation using multiple rules (required, format, length)
+- Real-time session timer tracking user activity
 
 - Live timer showing time spent on the website
 
