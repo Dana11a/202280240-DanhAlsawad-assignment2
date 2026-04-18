@@ -67,7 +67,7 @@ The goal is to demonstrate advanced JavaScript concepts, state management, and r
 ## Folder Structure
 
 ```
-202280240-DanhAlsawad-assignment-2/
+202280240-DanhAlsawad-assignment-3/
 │
 ├── README.md
 ├── index.html
